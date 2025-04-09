@@ -24,11 +24,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📱 Mobile App Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
 ### 🛠️ Backend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -42,6 +37,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Python_Telegram_Bot-2CA5E0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 📱 Mobile App Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🧰 Tools & Databases  
